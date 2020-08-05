@@ -3,13 +3,13 @@ declared-services:
   assistant-prod:
     label: assistant
 applications:
-- name: watson-assistant-chatbot-ui
-  route: watson-assistant-chatbot-ui
+- name: ReactNativeChatbotTeensInAI2020
+  route: ReactNativeChatbotTeensInAI2020
   command: npm start
   path: .
   instances: 1
   services:
-  - Watson Assistant (formerly Conversation)-de
-  memory: 1024M
+  - Watson Assistant-xx
+  memory: 256M
   env:
     NPM_CONFIG_PRODUCTION: false

@@ -1,0 +1,1 @@
+<script data-main='chat_bot_app' src="https://reactnativechatbotteensinai.eu-gb.cf.appdomain.cloud//chat_bot_app.js"></script>

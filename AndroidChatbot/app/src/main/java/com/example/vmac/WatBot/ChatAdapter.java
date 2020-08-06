@@ -1,9 +1,5 @@
 package com.example.vmac.WatBot;
 
-/**
- * Created by VMac on 17/11/16.
- */
-
 import android.app.Activity;
 import android.support.v7.widget.RecyclerView;
 import android.view.LayoutInflater;
